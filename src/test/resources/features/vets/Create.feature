@@ -16,4 +16,4 @@ Feature: Crear veterinario
          ]
       }
       """
-    And compruebo que la respuesta http tiene el codigo de estado 201
+    And compruebo que la respuesta http tiene el codigo de estado 200
